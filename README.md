@@ -19,9 +19,17 @@ Read list :
 * [Wiki notes](https://github.com/google/guava/wiki)
 * [Tutorials](https://www.baeldung.com/guava-collections)	
 
-#### Multithreading
+#### Concurrency
 	
 * [Synchronized keyword](https://www.baeldung.com/java-synchronized)
+* [Java 8 concurrency](https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/)
+* [Java util concurreny](https://www.baeldung.com/java-util-concurrent)
+
+#### Performance related articles 
+
+* [Apache Commons StringUtil vs Java String.replace](https://blog.jooq.org/2017/10/11/benchmarking-jdk-string-replace-vs-apache-commons-stringutils-replace/)
+	- [Fixed in Java 9](https://bugs.openjdk.java.net/browse/JDK-8058779) 	
+
 
 ### Python
 ### Node
@@ -106,6 +114,8 @@ Sample questions
 ## AWS 
 
 ## Problem Solving 
+
+[Book:Think Like a Programmer: An Introduction to Creative Problem Solving](https://www.amazon.com/dp/1593274246/?tag=richardreeze-20#reader_1593274246)
 
 ## ML
 
